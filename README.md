@@ -1,6 +1,8 @@
 # Android_MediaPlayer_Web
 Playing Song From Web by URL
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### MainActivity.java
@@ -64,7 +66,6 @@ SeekBar seekBar;
 ```
 
 # App Highlight
+![Media Player Web Code](https://user-images.githubusercontent.com/74413402/192093090-90857294-07f5-4093-9b7f-551cb2814495.png)
 
-<img src="app_images/Media Player Web Code.png" width="1000" /><br>
-
-<img src="app_images/Media Player Web App.png" width="300" /><br>
+![Media Player Web  App](https://user-images.githubusercontent.com/74413402/192093086-810b57af-c0f9-4e6c-a29d-4db198ebcb0a.png)
